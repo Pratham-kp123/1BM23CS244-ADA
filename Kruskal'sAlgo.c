@@ -80,3 +80,4 @@ cost adjacency matrix:
 Edges of the minimal spanning tree:
 (0, 1) (1, 2) (1, 4) (0, 3)
 Sum of minimal spanning tree: 16
+  */
